@@ -1,1 +1,2 @@
-# Practice Dashboards
+# Super store sales 
+Power BI, Excel
